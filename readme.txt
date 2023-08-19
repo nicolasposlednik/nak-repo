@@ -1,2 +1,2 @@
 1st change 
-2nd change
+/usr/bin/bash: line 1: q: command not found
